@@ -22,6 +22,6 @@ master-css
               |___Font
                         |
                         |__OpenSansCondensed-Bold.ttf
-	     |__ OpenSansCondensed-Light.ttf                     
+	                |__ OpenSansCondensed-Light.ttf                     
                         |__ OpenSansCondensed-LightItalic.ttf
                         |__PoiretOne-Regular.ttf
