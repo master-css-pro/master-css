@@ -1,0 +1,27 @@
+*************** MASTER CSS ***************
+version : 1.0
+working start : November 2018
+release : January 2019
+Lead developing by : J Chavda
+*Note* master-css-1.0 Lead developing by Jenil B Chavda, allowed to a developer to minimize a problem of master-css coding and involve to make a better master-css as a opensource and non-profitable project
+official site : master-css.ml
+
+master-css map
+master-css
+              |
+              |__css
+              |       |
+              |       |__master-css.css
+              |       |__master-css.min.css
+              |___script
+              |         |
+              |         |
+              |         |__master-css.js
+              |         |__master-css.min.js
+              |
+              |___Font
+                        |
+                        |__OpenSansCondensed-Bold.ttf
+	     |__ OpenSansCondensed-Light.ttf                     
+                        |__ OpenSansCondensed-LightItalic.ttf
+                        |__PoiretOne-Regular.ttf
